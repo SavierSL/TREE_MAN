@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e0e1597a187c034e9b2db2f06b839ff, type: 3}
+  m_Name: Worm
+  m_EditorClassIdentifier: 
+  Faction: 1
+  _stats:
+    Health: 0
+    AttackPower: 0
+    TravelDistance: 0
+  PrefabHero: {fileID: 0}
+  PrefabEnemy: {fileID: -1387343394234148408, guid: ff457aa11967a764db2907458d1c6c25, type: 3}
+  Description: 
+  MenuSprite: {fileID: 1550091216, guid: 917efbb9819bdfd49b2c61fe016f6680, type: 3}
+  EnemyType: 0
